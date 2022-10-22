@@ -233,6 +233,17 @@ margin: 1rem 0;
     .right-title::after{
         width:30%;
     }
+    .skill-title{
+        font-size: inherit;
+    }
+    .merger{
+        display: inherit !important;
+    }
+    .profile img{
+        width: 100% !important;
+        height: 30vh;
+        border: 8px solid #168dc3;
+    }
 }
 @media screen and (max-width:780px)
 {
